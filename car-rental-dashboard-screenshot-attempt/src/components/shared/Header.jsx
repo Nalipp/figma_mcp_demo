@@ -5,13 +5,11 @@ const Header = () => {
     <div className="header">
       <div className="header-left">
         <h1>Car Availability</h1>
-        <p className="subtitle">Tue, 14 Nov, 2022, 11.30 AM</p>
       </div>
       
       <div className="header-right">
         <div className="notification-badge">
           <div className="notification-icon">🔔</div>
-          <div className="badge">1</div>
         </div>
         
         <div className="search-container">

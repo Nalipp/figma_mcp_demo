@@ -43,6 +43,13 @@ https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Dev-Mode-MC
 (Don't show on slide) .claude/settings.local.json
 (Don't show on slide) Demo the setup
 ----------------------------------------------------------------------------------------------------
+MCP demo
+
+prompt
+first can you tell me what component is being served via figma mcp server
+Great I want to apply those exact styles to the Main Navbar in my car-rental-dashboard-mcp-attempt react app 
+
+----------------------------------------------------------------------------------------------------
 MCP, generally speaking
 
 (fade in) mcp_digram.png
