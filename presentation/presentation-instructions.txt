@@ -1,0 +1,21 @@
+Prompt
+Please take the contents of presentation.txt and convert it to markdown and in the presentation.md
+
+
+
+Marp (generate slides from markdown files)
+npm i @marp-team/marpit
+
+  # Generate slides from any markdown file
+  marp presentation.md --html -o presentation.html
+
+  # Open in browser
+  open presentation.html
+
+  # For PDF export
+  marp presentation.md --pdf -o presentation.pdf
+
+  # Watch for changes and auto-regenerate
+  marp presentation.md --html -w
+
+

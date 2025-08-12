@@ -1,0 +1,16 @@
+----------------------------------------------------------------------------------------------------
+setting up figma mcp server
+
+https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Dev-Mode-MCP-Server
+
+----------------------------------------------------------------------------------------------------
+mkslides-mcp
+
+https://mcp.so/server/mkslides-mcp/bsmnyk
+https://github.com/bsmnyk/mdslides-mcp-server
+
+It's particularly useful for developers who want to
+  generate presentations directly from their development environment using natural language requests to AI assistants.
+----------------------------------------------------------------------------------------------------
+
+
