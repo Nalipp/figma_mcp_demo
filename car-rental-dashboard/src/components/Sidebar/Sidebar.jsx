@@ -19,9 +19,9 @@ const Sidebar = () => {
     <div style={{ 
       width: '250px', 
       minHeight: '100vh', 
-      border: '1px solid #ccc', 
-      padding: '20px',
-      borderRight: '2px solid #ddd'
+      backgroundColor: '#2D3748',
+      color: 'white',
+      padding: '20px'
     }}>
       <div>
         {/* Logo */}
