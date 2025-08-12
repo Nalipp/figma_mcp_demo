@@ -18,7 +18,9 @@
       "WebFetch(domain:www.npmjs.com)",
       "Bash(node:*)",
       "Bash(marp:*)",
-      "Bash(open presentation.html)"
+      "Bash(open presentation.html)",
+      "Bash(rm:*)",
+      "mcp__figma-community__check_api_key"
     ],
     "deny": []
   }
