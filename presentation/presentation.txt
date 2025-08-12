@@ -1,16 +1,55 @@
+
 ----------------------------------------------------------------------------------------------------
-setting up figma mcp server
+Screenshot attempt
+
+Without MCP server
+
+(fade in) Prompt:
+  images
+  Given this screenshot: screenshot-attempt-screenshot-1
+  And given this screenshot: screenshot-attempt-screenshot-2
+
+  Update the react app car-rental-dashboard to match the styles of the screenshot  
+----------------------------------------------------------------------------------------------------
+Sreenshot attempt results
+
+(fade in) images
+  screenshot-attempt-base
+  screenshot-attempt-result
+
+----------------------------------------------------------------------------------------------------
+Why use the MCP server?
+
+(fade in) Allows you to pull specific details from the design file
+(fade in) Easier to access via LLM
+
+----------------------------------------------------------------------------------------------------
+Dev mode
+
+(fade in) Gives you all the details
+(fade in) Requires copy paste
+
+----------------------------------------------------------------------------------------------------
+Why not use the API?
+
+(fade in) More time consuming set up
+
+(Don't show on slide) presentation/example_figma_api_setup.js
+----------------------------------------------------------------------------------------------------
+Setting up figma mcp server
 
 https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Dev-Mode-MCP-Server
 
+(Don't show on slide) .claude/settings.local.json
+(Don't show on slide) Demo the setup
 ----------------------------------------------------------------------------------------------------
-mkslides-mcp
+MCP, generally speaking
 
-https://mcp.so/server/mkslides-mcp/bsmnyk
-https://github.com/bsmnyk/mdslides-mcp-server
+(fade in) mcp_digram.png
+(fade in) 
+  Data is becoming less structured
+  Accessible via English language
+  MCP is a protocol for defining access to data
 
-It's particularly useful for developers who want to
-  generate presentations directly from their development environment using natural language requests to AI assistants.
+(don't show) what are security issues related to MCP
 ----------------------------------------------------------------------------------------------------
-
-

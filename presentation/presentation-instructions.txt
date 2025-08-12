@@ -19,3 +19,6 @@ npm i @marp-team/marpit
   marp presentation.md --html -w
 
 
+To deploy
+Quickest option: Use Netlify - drag your presentation.html file to
+https://app.netlify.com/drop and get an instant shareable link.
